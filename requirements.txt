@@ -1,5 +1,5 @@
 streamlit
 langchain[faiss]
-faiss-cpu
+faiss-cpu==1.7.4
 PyMuPDF
 sentence-transformers
